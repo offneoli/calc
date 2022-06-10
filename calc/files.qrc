@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>outline_calculate_black_24dp.png</file>
+  </qresource>
+</RCC>
